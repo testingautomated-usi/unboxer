@@ -65,3 +65,7 @@ python -m steps.human_evaluation.export_samples
 The tool will generate samples for human study in out/human_evaluation.
 
 ** Data generated for the corresponding paper is available in out folder **<br>
+
+## DOI
+
+[![DOI](https://zenodo.org/badge/587625716.svg)](https://zenodo.org/badge/latestdoi/587625716)
