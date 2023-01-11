@@ -1,0 +1,5 @@
+MAX_LABELS = 5
+MAX_SAMPLES = 5
+IMG_SIZE: int = 200
+GRID_SIZE: int = 1
+NUM_SAMPLES: int = 15
